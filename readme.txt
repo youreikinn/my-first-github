@@ -1,3 +1,5 @@
 
 qwertyuiop
 1234567890
+asdfghjkl
+zxcvbnm
